@@ -196,8 +196,3 @@ cmake --build .
 4. Execute the resulting desktop toolkit binary:
 ```bash
 ./CVImageProcessingToolkitApp
-
-```
-```
-
-```
