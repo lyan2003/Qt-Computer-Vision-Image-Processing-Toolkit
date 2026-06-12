@@ -1,5 +1,7 @@
 # Computer Vision Image Processing and Analytics Toolkit
 
+>  **Note:** This project was originally developed on **March 6, 2026**, as part of the university curriculum. It has been structurally refactored and migrated here to serve as a public portfolio showcase.
+
 A cross-platform, high-performance C++ desktop application engineered using the Qt Framework and OpenCV core matrix representations. This toolkit implements modular analytical frameworks for spatial-domain and frequency-domain image manipulation, featuring granular additive noise modeling, dynamic local neighborhood filtering, classical edge-detection matrices, statistical histogram transformations, and complex frequency-domain hybrid image synthesis.
 
 ---
